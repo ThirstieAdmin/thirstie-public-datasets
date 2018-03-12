@@ -1,3 +1,3 @@
 # Thirstie datasets
-Generally useful public datasets
+Generally useful **public** datasets
 
