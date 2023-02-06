@@ -1,0 +1,12 @@
+# virtualenv
+.venv
+.venv*
+venv/
+deployment-env/
+ENV/
+
+# mypy
+.mypy_cache/
+
+# OS X cruft
+.DS_Store
